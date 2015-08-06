@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/42/hvd.32044011752995/003.png"; bbox 0 0 1925 3102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 649 1676 1049 1726">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 649 1676 1049 1726">
+     <span class='ocr_line' id='line_1_1' title="bbox 649 1676 1049 1726; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 649 1676 1049 1726; x_wconf 90' lang='lat' dir='ltr'>HARVARD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 648 1760 1049 1813">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 648 1760 1049 1813">
+     <span class='ocr_line' id='line_1_2' title="bbox 648 1760 1049 1813; baseline -0.015 0"><span class='ocrx_word' id='word_1_2' title='bbox 648 1760 1049 1813; x_wconf 87' lang='lat' dir='ltr'>COLLEGE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 649 1844 1049 1894">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 649 1844 1049 1894">
+     <span class='ocr_line' id='line_1_3' title="bbox 649 1844 1049 1894; baseline -0.01 0"><span class='ocrx_word' id='word_1_3' title='bbox 649 1844 1049 1894; x_wconf 91' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
