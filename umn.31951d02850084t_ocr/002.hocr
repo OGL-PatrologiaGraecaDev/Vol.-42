@@ -1,8 +1,0 @@
-  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/42/umn.31951d02850084t/002.png"; bbox 0 0 2006 3171; ppageno 0'>
-   <div class='ocr_carea' id='block_1_1' title="bbox 375 0 2006 530">
-    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 799 441 1480 480">
-     <span class='ocr_line' id='line_1_1' title="bbox 799 441 1480 480; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 799 457 820 479; x_wconf 69' lang='grc' dir='ltr'>ιτ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1014 454 1024 463; x_wconf 88' lang='grc'><strong><em>-</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1073 461 1081 472; x_wconf 82' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1280 452 1281 456; x_wconf 58' lang='grc' dir='ltr'>π</span> <span class='ocrx_word' id='word_1_5' title='bbox 1401 441 1480 480; x_wconf 55' lang='grc' dir='ltr'>πεῖ»</span> 
-     </span>
-    </p>
-   </div>
-  </div>
